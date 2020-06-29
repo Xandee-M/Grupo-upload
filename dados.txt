@@ -1,0 +1,1 @@
+{"nome":"teste","email":"xandeeknd@gmail.com","senha":"$2y$10$RRrsWLnlkWh6xzzvJNxVc.bg..o77GKb35fe155CbQHPK1XKUpQ.a","imagem":"images\/WhatsApp Image 2020-06-25 at 14.44.39 (1).jpeg"}
